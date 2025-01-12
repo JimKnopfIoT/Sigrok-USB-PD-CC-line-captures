@@ -40,5 +40,6 @@ Maybe someone find this files helpfull.
 <p align="center">
 <img src="PD_sync.png" width="220">
 <img src="PD_sync3_startsequence.png" width="220">
+<img src="pulseview_KvjTKqyQQ7.png" width="220">
 </p>  
 
