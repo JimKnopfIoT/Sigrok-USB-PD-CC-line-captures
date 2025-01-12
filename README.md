@@ -15,17 +15,17 @@ I hooked up my Hantek 4032L logic analyzer to the D+, D-, CC1 and CC2 lines and 
 All the communication was on the CC1 line (Pin A5). I did some tests with some devices.
 
 Power-Source was:
-Bosch ebike battery from my small project
-Pine-Power charger
-INIU-B63 Powerbank
+* Bosch ebike battery from my small project
+* Pine-Power charger
+* INIU-B63 Powerbank
 
 My DUT were:
-Microsoft Surface Laptop Studio 2
-Fujitsu-Lifebook Laptop
-Xperia 10 III Smartphone (with SailfishOS) 
-Flipper Zero
-LiteVNA
-ES15 electric screw driver
+* Microsoft Surface Laptop Studio 2
+* Fujitsu-Lifebook Laptop
+* Sony Xperia 10 III Smartphone (with SailfishOS) 
+* Flipper Zero
+* LiteVNA
+* ES15 electric screw driver
 
 Maybe someone find this files helpfull.
 
