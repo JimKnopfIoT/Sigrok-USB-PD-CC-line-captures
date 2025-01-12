@@ -35,7 +35,6 @@ Maybe someone find this files helpfull.
 <img src="ViewCapture20250112_113516.png" width="250"> 
 <img src="IMG_20241114_202705.jpg" width="220"> 
 <img src="IMG_20241114_202520.jpg" width="220">
-<img src="IMG_20241114_202705.jpg" width="220">
 </p>
 <p align="center">
 <img src="PD_sync.png" width="220">
