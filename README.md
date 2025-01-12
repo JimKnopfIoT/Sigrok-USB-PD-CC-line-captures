@@ -14,31 +14,31 @@ To find out the problem, i dived into the USB communication. It uses the USB PD 
 I hooked up my Hantek 4032L logic analyzer to the D+, D-, CC1 and CC2 lines and used sigrok with pulseview to inspect the data.
 All the communication was on the CC1 line (Pin A5). I did some tests with some devices.
 
-Power source was:
+Power-Source was:
 Bosch ebike battery from my small project
-Pine Power charger
-INIU B63 Powerbank
+Pine-Power charger
+INIU-B63 Powerbank
 
-My target devices were:
+My DUT were:
 Microsoft Surface Laptop Studio 2
-Fujitsu Laptop
+Fujitsu-Lifebook Laptop
 Xperia 10 III Smartphone (with SailfishOS) 
 Flipper Zero
+LiteVNA
+ES15 electric screw driver
 
-
+Maybe someone find this files helpfull.
 
 
 ## View
 <p align="center">
-<img src="IMG_20250105_194932.jpg" width="220"> 
-<img src="IMG_20250105_195038.jpg" width="220">
-<img src="IMG_20250105_195146.jpg" width="220">
-<img src="IMG_20250105_195155.jpg" width="220">
-<img src="IMG_20250105_195236.jpg" width="220">
-</p>  
-<p align="center">
-<img src="Staubsack1.png" width="250"> 
-<img src="Staubsack2.png" width="250"> 
-<img src="Staubsack4.png" width="250"> 
-<img src="Staubsack5.png" width="220">
+<img src="ViewCapture20250112_113516.png" width="250"> 
+<img src="PD_sync.png" width="220">
+<img src="PD_sync3_startsequence.png" width="220">
 </p>
+<p align="center">
+<img src="IMG_20241114_202705.jpg" width="220"> 
+<img src="IMG_20241114_202520.jpg" width="220">
+<img src="IMG_20241114_202705.jpg" width="220">
+</p>  
+
